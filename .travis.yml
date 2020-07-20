@@ -1,0 +1,23 @@
+os: linux
+language: shell
+services:
+- docker
+env:
+- PERIBOLOS_TAG=v20200710-590cd389bc
+script:
+- echo $TOKEN > /tmp/TOKEN
+- docker run --rm
+    -v /tmp/TOKEN:/etc/github/oauth
+    -v $(pwd)/config.yaml:/etc/config/config.yaml
+    gcr.io/k8s-prow/peribolos:$PERIBOLOS_TAG
+    --github-token-path /etc/github/oauth
+    --config-path /etc/config/config.yaml
+    --fix-org
+    --fix-org-members
+    --fix-team-members
+    --fix-team-repos
+    --fix-teams
+#   $( (( TRAVIS_PULL_REQUEST  == false )) && printf %s '--confirm' )
+branches:
+  only:
+  - master

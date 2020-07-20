@@ -1,0 +1,56 @@
+orgs:
+  baloise-incubator:
+    admins:
+    - christiansiegel
+    - hirsch88
+    - incubator-tekton
+    - joachimprinzbach
+    - MarkusTiede
+    - niiku
+    - patrit
+    billing_email: ""
+    company: ""
+    default_repository_permission: ""
+    description: Evaluation and incubation of new technologies for the Baloise Group
+    email: Group.CH_Open-Source@baloise.ch
+    has_organization_projects: true
+    has_repository_projects: true
+    location: Aeschengraben 21, 4002 Basel, Switzerland
+    members:
+    - Alex-Thoma
+    - arburk
+    - baloise-incubator-bot
+    - CookieMonster70
+    - culmat
+    - daniel-st
+    - danielgrob
+    - Dr-Tech81
+    - felixkrohn
+    - frank-baier
+    - gerohoff
+    - geschba
+    - geschbach
+    - Ginious
+    - JohnnyGoodNews
+    - jordilaforge
+    - kullmanp
+    - l0r5
+    - leubedane
+    - luechtdiode
+    - MarkusFlorian79
+    - mbobzin
+    - miksaylo87
+    - niels-oz
+    - NoraKurzbein
+    - sbubendorf
+    - schlijo
+    - StephanSST
+    - svene
+    - tbe1
+    - tirun
+    - tklueber
+    - trichie
+    - vangual
+    - yannickholzenkamp
+    members_can_create_repositories: true
+    name: Baloise Group - Incubator
