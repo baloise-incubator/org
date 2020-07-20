@@ -15,7 +15,6 @@ script:
     --fix-org
     --fix-org-members
     --fix-team-members
-    --fix-team-repos
     --fix-teams
 #   $( (( TRAVIS_PULL_REQUEST  == false )) && printf %s '--confirm' )
 branches:
