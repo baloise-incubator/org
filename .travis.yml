@@ -14,8 +14,6 @@ script:
     --config-path /etc/config/config.yaml
     --fix-org
     --fix-org-members
-    --fix-team-members
-    --fix-teams
 #   $( (( TRAVIS_PULL_REQUEST  == false )) && printf %s '--confirm' )
 branches:
   only:
