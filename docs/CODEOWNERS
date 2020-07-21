@@ -1,3 +1,2 @@
 # see: https://help.github.com/articles/about-codeowners/
-*           @niiku @christiansiegel
-config.yaml @niiku
+* @baloise-incubator/organization-managers

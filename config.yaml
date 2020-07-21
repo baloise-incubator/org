@@ -55,3 +55,18 @@ orgs:
     - yannickholzenkamp
     members_can_create_repositories: true
     name: Baloise Group - Incubator
+    teams:
+      Organization Managers:
+        description: Baloise Incubator GitHub Organization Managers
+        maintainers:
+        - baopso
+        members:
+        - christiansiegel
+        - hirsch88
+        - joachimprinzbach
+        - MarkusTiede
+        - niiku
+        - patrit
+        privacy: closed
+        repos:
+          org: admin
