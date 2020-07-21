@@ -1,6 +1,7 @@
 orgs:
   baloise-incubator:
     admins:
+    - baopso
     - christiansiegel
     - hirsch88
     - incubator-tekton
