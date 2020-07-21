@@ -9,7 +9,7 @@ orgs:
     - MarkusTiede
     - niiku
     - patrit
-    billing_email: ""
+    billing_email: Group.CH_Open-Source@baloise.ch
     company: ""
     default_repository_permission: read
     description: Evaluation and incubation of new technologies for the Baloise Group
