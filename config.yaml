@@ -11,7 +11,7 @@ orgs:
     - patrit
     billing_email: ""
     company: ""
-    default_repository_permission: ""
+    default_repository_permission: read
     description: Evaluation and incubation of new technologies for the Baloise Group
     email: Group.CH_Open-Source@baloise.ch
     has_organization_projects: true
