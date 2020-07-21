@@ -17,7 +17,7 @@ script:
     --fix-team-members
     --fix-teams
     --fix-team-repos
-#   $( (( TRAVIS_PULL_REQUEST  == false )) && printf %s '--confirm' )
+    $( (( TRAVIS_PULL_REQUEST  == false )) && printf %s '--confirm' )
 branches:
   only:
   - master
