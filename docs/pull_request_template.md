@@ -1,8 +1,14 @@
-Config changes proposed in this pull request:
-- 
+## Config changes proposed in this pull request
 - 
 - 
 
-If a new member is added he / she should state that:
-- [ ] has read and understood our [Open Source Guidelines](https://baloise.github.io/open-source/docs/arc42/)
-- [ ] agrees to act accordingly
+## For new organization members 
+
+### I acknowledge that
+- [ ] I have **read and understood the [Open Source Guidelines](https://baloise.github.io/open-source/docs/arc42/)**
+- [ ] I agree to **act accordingly (with due dilligence) to our guidelines**
+- [ ] I have **no open questions** regarding the topics covered (please delete the "open questions" section)
+
+### Open questions
+- 
+- 
