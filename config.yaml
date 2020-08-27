@@ -55,6 +55,7 @@ orgs:
     - yannickholzenkamp
     - mikevader
     - ArthurNeudeck
+    - mateuszbaloise
     members_can_create_repositories: true
     name: Baloise Group - Incubator
     teams:
