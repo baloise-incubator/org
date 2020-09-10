@@ -56,6 +56,8 @@ orgs:
     - mikevader
     - ArthurNeudeck
     - mateuszbaloise
+    - chris-lipp
+    - tommuelli
     members_can_create_repositories: true
     name: Baloise Group - Incubator
     teams:
