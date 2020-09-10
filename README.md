@@ -1,3 +1,5 @@
+[![peribolos-sync-status](https://img.shields.io/travis/com/baloise-incubator/org/master?label=peribolos%20sync "periblos sync status")](https://travis-ci.com/github/baloise-incubator/org)
+
 # org
 
 We are using [Peribolos](https://github.com/kubernetes/test-infra/tree/master/prow/cmd/peribolos) to manage our GitHub org settings, teams and memberships in a [yaml file](config.yaml).
