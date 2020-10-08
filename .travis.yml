@@ -16,7 +16,7 @@ jobs:
   include:
     - stage: validate-email
       script:
-        - AUTHOR_EMAIL=$(git log -1 "origin/${TRAVIS_PULL_REQUEST_BRANCH}" --pretty="%aE")
+        - AUTHOR_EMAIL=$(git log -1 ${TRAVIS_COMMIT}^2 --pretty="%aE") # the last commit on the PR branch is ${TRAVIS_COMMIT}^2
         - if [[ ! $AUTHOR_EMAIL =~ ^[a-z.]+@baloise\.[a-z]{2,3}$ ]]; then echo "Commit author (${AUTHOR_EMAIL}) doesn't have a '@baloise.TLD' email address!"; exit 1; fi
     - stage: peribolos
       services: docker
