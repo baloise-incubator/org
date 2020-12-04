@@ -69,6 +69,7 @@ orgs:
     - janbrohl
     - antoninoprovenzanobaloise
     - AlainLatscha
+    - renat1sakenov
     members_can_create_repositories: true
     name: Baloise Group - Incubator
     teams:
