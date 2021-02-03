@@ -70,6 +70,7 @@ orgs:
     - antoninoprovenzanobaloise
     - AlainLatscha
     - renat1sakenov
+    - gitops-demo-user
     members_can_create_repositories: true
     name: Baloise Group - Incubator
     teams:
