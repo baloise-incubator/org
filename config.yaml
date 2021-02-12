@@ -1,4 +1,5 @@
 orgs:
+  foo: bar
   baloise-incubator:
     admins:
     - baopso
