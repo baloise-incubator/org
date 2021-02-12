@@ -1,0 +1,32 @@
+name: Apply Org Config
+on:
+  push:
+    branches:
+      - master
+jobs:
+  apply-org-config:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2.3.1
+        with:
+          persist-credentials: false
+
+      - name: Peribolos run
+        env:
+          GITHUB_TOKEN: ${{ secrets.PERIBOLOS_TOKEN }}
+          PERIBOLOS_VERSION: v20200826-f9138eb980
+        run: |
+          echo $GITHUB_TOKEN > /tmp/TOKEN
+          docker run --rm \
+            -v /tmp/TOKEN:/etc/github/token \
+            -v $(pwd)/config.yaml:/etc/config/config.yaml \
+            gcr.io/k8s-prow/peribolos:$PERIBOLOS_VERSION \
+            --github-token-path /etc/github/token \
+            --config-path /etc/config/config.yaml \
+            --fix-org \
+            --fix-org-members \
+            --fix-team-members \
+            --fix-teams \
+            --fix-team-repos \
+            --confirm

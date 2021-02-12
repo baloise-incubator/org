@@ -1,0 +1,35 @@
+name: Verify Branch Author Email
+on:
+  pull_request:
+    branches:
+      - master
+jobs:
+  verify-branch-author-email:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2.3.1
+        with:
+          fetch-depth: 0
+          persist-credentials: false
+
+      - name: Verify author emails
+        env:
+          PATTERN: ^[a-z.]+@(basler\.(ch|de)|baloise\.(be|ch|com|de|nl))$
+        run: |
+          echo "commits on branch:"
+          git log --pretty='tformat:%h %s (%ae)' origin/master.. | tail -n +2
+          echo
+
+          git log --format='%ae' origin/master.. | tr [:upper:] [:lower:] | tail -n +2 > emails.txt
+          grep --invert-match --perl-regexp $PATTERN emails.txt > invalid-emails.txt || true
+
+          echo "invalid emails:" $(cat invalid-emails.txt | wc -l) "of" $(cat emails.txt | wc -l)
+          cat invalid-emails.txt
+          echo
+
+          if [ -s invalid-emails.txt ]; then
+            echo "ERROR: NOT ALL EMAILS MATCH PATTERN" $PATTERN
+            exit 1
+          fi
+
