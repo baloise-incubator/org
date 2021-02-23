@@ -6,7 +6,7 @@ We are using [Peribolos](https://github.com/kubernetes/test-infra/tree/master/pr
 
 ## Automation
 
-Travis runs *peribolos* on every push to master.
+*peribolos* runs on every push to master and every PR to master (dry-run).
 
 ## Initial Config Dump
 
