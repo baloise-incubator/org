@@ -1,5 +1,5 @@
 orgs:
-  baloise-incubator:
+  -baloise-incubator:
     admins:
     - baopso
     - christiansiegel
