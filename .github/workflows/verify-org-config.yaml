@@ -1,16 +1,23 @@
 name: Verify Org Config
 on:
-  pull_request:
+  pull_request_target:
     branches:
       - master
 jobs:
   verify-org-config:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
+      - name: Checkout master
         uses: actions/checkout@v2.3.1
         with:
           persist-credentials: false
+          
+      - name: Checkout PR branch
+        uses: actions/checkout@v2.3.1
+        with:
+          persist-credentials: false
+          ref: ${{ github.event.pull_request.head.sha }}
+          path: pr
 
       - name: Peribolos dry-run
         env:
@@ -20,7 +27,7 @@ jobs:
           echo $GITHUB_TOKEN > /tmp/TOKEN
           docker run --rm \
             -v /tmp/TOKEN:/etc/github/token \
-            -v $(pwd)/config.yaml:/etc/config/config.yaml \
+            -v $(pwd)/pr/config.yaml:/etc/config/config.yaml \
             gcr.io/k8s-prow/peribolos:$PERIBOLOS_VERSION \
             --github-token-path /etc/github/token \
             --config-path /etc/config/config.yaml \
