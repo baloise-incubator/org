@@ -12,7 +12,7 @@ jobs:
         with:
           persist-credentials: false
           
-      - name: Checkout PR
+      - name: Checkout PR branch
         uses: actions/checkout@v2.3.1
         with:
           persist-credentials: false
