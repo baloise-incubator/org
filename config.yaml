@@ -75,6 +75,7 @@ orgs:
     - kamrwo
     - mabegglen
     - th-basler
+    - MartinV-DevOps
     members_can_create_repositories: true
     name: Baloise Group - Incubator
     teams:
