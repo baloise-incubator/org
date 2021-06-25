@@ -3,6 +3,7 @@ orgs:
     admins:
     - baopso
     - christiansiegel
+    - culmat
     - hirsch88
     - incubator-tekton
     - joachimprinzbach
@@ -22,7 +23,6 @@ orgs:
     - arburk
     - baloise-incubator-bot
     - CookieMonster70
-    - culmat
     - daniel-st
     - danielgrob
     - Dr-Tech81
@@ -86,6 +86,7 @@ orgs:
         - baopso
         members:
         - christiansiegel
+        - culmat
         - hirsch88
         - joachimprinzbach
         - MarkusTiede
