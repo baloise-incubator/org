@@ -2,7 +2,6 @@ orgs:
   baloise-incubator:
     admins:
     - baopso
-    - christiansiegel
     - culmat
     - hirsch88
     - incubator-tekton
@@ -87,7 +86,6 @@ orgs:
         maintainers:
         - baopso
         members:
-        - christiansiegel
         - culmat
         - hirsch88
         - joachimprinzbach
