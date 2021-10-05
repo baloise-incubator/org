@@ -21,6 +21,7 @@ orgs:
     - Alex-Thoma
     - arburk
     - baloise-incubator-bot
+    - christiansiegel
     - CookieMonster70
     - daniel-st
     - danielgrob
@@ -95,3 +96,10 @@ orgs:
         privacy: closed
         repos:
           org: admin
+      Alumni:
+        description: Former member of the Baloise Incubator Open Source Group
+        maintainers:
+        - baopso
+        members:
+        - christiansiegel
+        privacy: closed
