@@ -2,7 +2,6 @@ orgs:
   baloise-incubator:
     admins:
     - baopso
-    - christiansiegel
     - culmat
     - hirsch88
     - incubator-tekton
@@ -22,6 +21,7 @@ orgs:
     - Alex-Thoma
     - arburk
     - baloise-incubator-bot
+    - christiansiegel
     - CookieMonster70
     - daniel-st
     - danielgrob
@@ -87,7 +87,6 @@ orgs:
         maintainers:
         - baopso
         members:
-        - christiansiegel
         - culmat
         - hirsch88
         - joachimprinzbach
@@ -97,3 +96,10 @@ orgs:
         privacy: closed
         repos:
           org: admin
+      Alumni:
+        description: Former member of the Baloise Incubator Open Source Group
+        maintainers:
+        - baopso
+        members:
+        - christiansiegel
+        privacy: closed
