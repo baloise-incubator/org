@@ -80,6 +80,7 @@ orgs:
     - dombosfi
     - mikeleber
     - marcschmidlin
+    - dweber019
     members_can_create_repositories: true
     name: Baloise Group - Incubator
     teams:
