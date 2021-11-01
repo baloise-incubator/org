@@ -83,6 +83,8 @@ orgs:
     - marcschmidlin
     - dweber019
     - l-brendle
+    - harry08
+    - gerohoff
     members_can_create_repositories: true
     name: Baloise Group - Incubator
     teams:
