@@ -109,3 +109,9 @@ orgs:
         members:
         - christiansiegel
         privacy: closed
+      ApertoDevs:
+        description: Development team of the website
+        maintainers:
+        - baopso
+        members:
+        privacy: closed
