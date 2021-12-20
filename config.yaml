@@ -115,6 +115,6 @@ orgs:
         maintainers:
         - baopso
         - hirsch88
-        privacy: closed
         members:
-        - hirsch88
+        - joachimprinzbach
+        privacy: closed
