@@ -25,7 +25,9 @@ orgs:
     - CookieMonster70
     - daniel-st
     - danielgrob
+    - dianaracho
     - Dr-Tech81
+    - fabio-tedesco
     - felixkrohn
     - frank-baier
     - Gagne87
@@ -33,6 +35,7 @@ orgs:
     - geschba
     - geschbach
     - Ginious
+    - GinaBiondo-aperto
     - JohnnyGoodNews
     - jordilaforge
     - kullmanp 
@@ -40,6 +43,7 @@ orgs:
     - leubedane
     - luechtdiode
     - MarkusFlorian79
+    - max-voss
     - mbobzin
     - miksaylo87
     - niels-oz
@@ -47,6 +51,7 @@ orgs:
     - NoraKurzbein
     - sbubendorf
     - schlijo
+    - soenkeSchmidt
     - StephanSST
     - svene
     - tbe1
@@ -117,5 +122,9 @@ orgs:
         - baopso
         - hirsch88
         members:
-        - joachimprinzbach
+        - soenkeSchmidt
+        - max-voss
+        - GinaBiondo-aperto
+        - fabio-tedesco
+        - dianaracho
         privacy: closed
