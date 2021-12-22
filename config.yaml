@@ -36,6 +36,7 @@ orgs:
     - geschbach
     - Ginious
     - GinaBiondo-aperto
+    - janineKleessen
     - JohnnyGoodNews
     - jordilaforge
     - kullmanp 
@@ -127,4 +128,7 @@ orgs:
         - GinaBiondo-aperto
         - fabio-tedesco
         - dianaracho
+        - janineKleessen
         privacy: closed
+        repos:
+          design-system: write
