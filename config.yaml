@@ -9,6 +9,7 @@ orgs:
     - MarkusTiede
     - niiku
     - patrit
+    - marcschmidlin
     billing_email: Group.CH_Open-Source@baloise.ch
     company: ""
     default_repository_permission: write
@@ -89,7 +90,6 @@ orgs:
     - dombosfi
     - mikeleber
     - gueltekinB
-    - marcschmidlin
     - dweber019
     - harry08
     - l-brendle
