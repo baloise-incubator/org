@@ -23,6 +23,7 @@ orgs:
     - arburk
     - baloise-incubator-bot
     - christiansiegel
+    - clastzoo
     - CookieMonster70
     - daniel-st
     - danielgrob
@@ -55,8 +56,10 @@ orgs:
     - sbubendorf
     - schlijo
     - soenkeSchmidt
+    - serialcool
     - StephanSST
     - svene
+    - m4rc0z
     - tbe1
     - tirun
     - tklueber
@@ -84,6 +87,8 @@ orgs:
     - MarcoUebner
     - kamrwo
     - mabegglen
+    - madaluca
+    - sebaotlacan
     - th-basler
     - MartinV-DevOps
     - pkreisel
@@ -129,10 +134,13 @@ orgs:
         - hirsch88
         members:
         - soenkeSchmidt
+        - serialcool
         - max-voss
         - GinaBiondo-aperto
         - fabio-tedesco
         - dianaracho
+        - madaluca
+        - sebaotlacan
         - janineKleessen
         - fabio-tedesco
         privacy: closed
