@@ -22,8 +22,10 @@ orgs:
     - Alex-Thoma
     - arburk
     - baloise-incubator-bot
+    - BlazinDevilify
     - christiansiegel
     - clastzoo
+    - clemensgbasler
     - CookieMonster70
     - daniel-st
     - danielgrob
@@ -41,6 +43,7 @@ orgs:
     - janineKleessen
     - JohnnyGoodNews
     - jordilaforge
+    - JasperDeLanghe
     - kullmanp 
     - l0r5
     - leubedane
@@ -64,9 +67,11 @@ orgs:
     - tirun
     - tklueber
     - trichie
+    - ThomasSeyssensTPO
     - vangual
     - yannickholzenkamp
     - mikevader
+    - mkasparsone
     - ArthurNeudeck
     - mateuszbaloise
     - skytime-sh
@@ -102,7 +107,9 @@ orgs:
     - janhkrueger
     - RiLi2001
     - volkerbasler
+    - viclientali
     - koenigle
+    - monkold
     members_can_create_repositories: true
     name: Baloise Group - Incubator
     teams:
