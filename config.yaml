@@ -24,6 +24,7 @@ orgs:
     - alexsoeres
     - christiansiegel
     - clastzoo
+    - clemensgbasler
     - CookieMonster70
     - daniel-st
     - danielgrob
@@ -69,6 +70,7 @@ orgs:
     - vangual
     - yannickholzenkamp
     - mikevader
+    - mkasparsone
     - ArthurNeudeck
     - mateuszbaloise
     - skytime-sh
@@ -105,7 +107,9 @@ orgs:
     - janhkrueger
     - RiLi2001
     - volkerbasler
+    - viclientali
     - koenigle
+    - monkold
     members_can_create_repositories: true
     name: Baloise Group - Incubator
     teams:
