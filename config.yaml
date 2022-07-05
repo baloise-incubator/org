@@ -9,6 +9,7 @@ orgs:
     - MarkusTiede
     - niiku
     - patrit
+    - marcschmidlin
     billing_email: Group.CH_Open-Source@baloise.ch
     company: ""
     default_repository_permission: write
@@ -18,10 +19,14 @@ orgs:
     has_repository_projects: true
     location: Aeschengraben 21, 4002 Basel, Switzerland
     members:
+    - jembas
     - Alex-Thoma
     - arburk
     - baloise-incubator-bot
+    - alexsoeres
     - christiansiegel
+    - clastzoo
+    - clemensgbasler
     - CookieMonster70
     - daniel-st
     - danielgrob
@@ -39,6 +44,7 @@ orgs:
     - janineKleessen
     - JohnnyGoodNews
     - jordilaforge
+    - JasperDeLanghe
     - kullmanp 
     - l0r5
     - leubedane
@@ -54,15 +60,20 @@ orgs:
     - sbubendorf
     - schlijo
     - soenkeSchmidt
+    - serialcool
     - StephanSST
+    - stefanbukovski
     - svene
+    - m4rc0z
     - tbe1
     - tirun
     - tklueber
     - trichie
+    - ThomasSeyssensTPO
     - vangual
     - yannickholzenkamp
     - mikevader
+    - mkasparsone
     - ArthurNeudeck
     - mateuszbaloise
     - skytime-sh
@@ -83,19 +94,24 @@ orgs:
     - MarcoUebner
     - kamrwo
     - mabegglen
+    - madaluca
+    - sebaotlacan
     - th-basler
     - MartinV-DevOps
     - pkreisel
     - dombosfi
     - mikeleber
     - gueltekinB
-    - marcschmidlin
     - dweber019
     - harry08
     - l-brendle
     - d038496
     - janhkrueger
     - RiLi2001
+    - volkerbasler
+    - viclientali
+    - koenigle
+    - monkold
     members_can_create_repositories: true
     name: Baloise Group - Incubator
     teams:
@@ -127,10 +143,13 @@ orgs:
         - hirsch88
         members:
         - soenkeSchmidt
+        - serialcool
         - max-voss
         - GinaBiondo-aperto
         - fabio-tedesco
         - dianaracho
+        - madaluca
+        - sebaotlacan
         - janineKleessen
         - fabio-tedesco
         privacy: closed
