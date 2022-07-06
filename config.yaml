@@ -9,6 +9,7 @@ orgs:
     - MarkusTiede
     - niiku
     - patrit
+    - marcschmidlin
     billing_email: Group.CH_Open-Source@baloise.ch
     company: ""
     default_repository_permission: write
@@ -18,11 +19,13 @@ orgs:
     has_repository_projects: true
     location: Aeschengraben 21, 4002 Basel, Switzerland
     members:
+    - jembas
     - Alex-Thoma
     - arburk
     - baloise-incubator-bot
-    - BlazinDevilify
+    - alexsoeres
     - christiansiegel
+    - christophgeering
     - clastzoo
     - clemensgbasler
     - CookieMonster70
@@ -61,6 +64,7 @@ orgs:
     - soenkeSchmidt
     - serialcool
     - StephanSST
+    - stefanbukovski
     - svene
     - m4rc0z
     - tbe1
@@ -100,7 +104,6 @@ orgs:
     - dombosfi
     - mikeleber
     - gueltekinB
-    - marcschmidlin
     - dweber019
     - harry08
     - l-brendle
@@ -110,6 +113,8 @@ orgs:
     - volkerbasler
     - viclientali
     - koenigle
+    - monkold
+    - henriks23
     members_can_create_repositories: true
     name: Baloise Group - Incubator
     teams:
