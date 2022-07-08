@@ -25,6 +25,7 @@ orgs:
     - baloise-incubator-bot
     - alexsoeres
     - christiansiegel
+    - christophgeering
     - clastzoo
     - clemensgbasler
     - CookieMonster70
@@ -62,6 +63,7 @@ orgs:
     - soenkeSchmidt
     - serialcool
     - StephanSST
+    - stefanbukovski
     - svene
     - m4rc0z
     - tbe1
@@ -112,6 +114,8 @@ orgs:
     - koenigle
     - frevers81
     - monkold
+    - henriks23
+    - Tiliavir
     members_can_create_repositories: true
     name: Baloise Group - Incubator
     teams:
