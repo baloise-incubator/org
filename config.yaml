@@ -19,6 +19,7 @@ orgs:
     has_repository_projects: true
     location: Aeschengraben 21, 4002 Basel, Switzerland
     members:
+    - ArivinK
     - jembas
     - Alex-Thoma
     - arburk
