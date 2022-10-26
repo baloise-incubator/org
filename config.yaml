@@ -124,6 +124,7 @@ orgs:
     - czimmermann1
     - nataliia-karpenko
     - tommuelli
+    - makrelas
     members_can_create_repositories: true
     name: Baloise Group - Incubator
     teams:
