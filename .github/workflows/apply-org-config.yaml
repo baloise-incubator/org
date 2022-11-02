@@ -8,14 +8,14 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v2.3.1
+        uses: actions/checkout@v2.5.0
         with:
           persist-credentials: false
 
       - name: Peribolos run
         env:
           GITHUB_TOKEN: ${{ secrets.PERIBOLOS_TOKEN }}
-          PERIBOLOS_VERSION: v20200826-f9138eb980
+          PERIBOLOS_VERSION: v20221102-8efc754883
         run: |
           echo $GITHUB_TOKEN > $RUNNER_TEMP/token
           docker run --rm \
