@@ -7,11 +7,6 @@ jobs:
   verify-org-config:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout master
-        uses: actions/checkout@v2.5.0
-        with:
-          persist-credentials: false
-          
       - name: Checkout PR branch
         uses: actions/checkout@v2.5.0
         with:
