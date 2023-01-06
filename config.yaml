@@ -132,6 +132,7 @@ orgs:
     - FilipMarkovski
     - hejransa
     - lazaki
+    - koenigle
     teams:
       Organization Managers:
         description: Baloise Incubator GitHub Organization Managers
