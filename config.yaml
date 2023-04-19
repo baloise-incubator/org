@@ -97,7 +97,6 @@ orgs:
     - AlainLatscha
     - renat1sakenov
     - gitops-demo-user
-    - MarcoUebner
     - kamrwo
     - mebagel
     - madaluca
@@ -119,10 +118,11 @@ orgs:
     - volkerbasler
     - viclientali
     - koenigle
+    - frevers81
     - monkold
     - henriks23
     - Tiliavir
-    - czimmermann1
+    - czimmernn1
     - nataliia-karpenko
     - tommuelli
     - makrelas
@@ -130,6 +130,7 @@ orgs:
     - nteofilovic
     - koljaju
     - FilipMarkovski
+    - hejransa
     members_can_create_repositories: true
     name: Baloise Group - Incubator
     teams:
