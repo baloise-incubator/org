@@ -12,7 +12,7 @@ jobs:
 
       - name: Peribolos run
         env:
-          GITHUB_TOKEN: ${{ secrets.PERIBOLOS_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.PERIBOLOS_PERSONAL_TOKEN }}
         run: |
           echo $GITHUB_TOKEN > $RUNNER_TEMP/token
           docker run --rm \
