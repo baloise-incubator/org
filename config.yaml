@@ -19,11 +19,13 @@ orgs:
     has_repository_projects: true
     location: Aeschengraben 21, 4002 Basel, Switzerland
     members:
+    - ArivinK
     - jembas
     - Alex-Thoma
     - arburk
     - baloise-incubator-bot
     - alexsoeres
+    - chris-lipp
     - christiansiegel
     - christophgeering
     - clastzoo
@@ -43,6 +45,7 @@ orgs:
     - Ginious
     - GinaBiondo-aperto
     - janineKleessen
+    - jacnguymesoneer
     - JohnnyGoodNews
     - jordilaforge
     - JasperDeLanghe
@@ -58,6 +61,7 @@ orgs:
     - niels-oz
     - nobilo
     - NoraKurzbein
+    - rainerblumenthal
     - sbubendorf
     - schlijo
     - soenkeSchmidt
@@ -84,6 +88,7 @@ orgs:
     - RotscherK
     - sobabufe
     - Mission71
+    - MelPiw
     - lagoaresti
     - sebastianzillessen
     - stefanschoe
@@ -92,11 +97,11 @@ orgs:
     - AlainLatscha
     - renat1sakenov
     - gitops-demo-user
-    - MarcoUebner
     - kamrwo
-    - mabegglen
+    - mebagel
     - madaluca
     - sebaotlacan
+    - Sw0rdiX
     - th-basler
     - MartinV-DevOps
     - pkreisel
@@ -109,6 +114,7 @@ orgs:
     - d038496
     - janhkrueger
     - RiLi2001
+    - rainerblumenthaö
     - volkerbasler
     - viclientali
     - koenigle
@@ -116,6 +122,14 @@ orgs:
     - monkold
     - henriks23
     - Tiliavir
+    - czimmernn1
+    - nataliia-karpenko
+    - tommuelli
+    - makrelas
+    - ingenuity2k
+    - nteofilovic
+    - koljaju
+    - hejransa
     members_can_create_repositories: true
     name: Baloise Group - Incubator
     teams:
@@ -153,6 +167,9 @@ orgs:
         - fabio-tedesco
         - dianaracho
         - madaluca
+        - rainerblumenthal
+        - MelPiw
+        - Sw0rdiX
         - sebaotlacan
         - janineKleessen
         - fabio-tedesco
