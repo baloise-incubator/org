@@ -132,3 +132,47 @@ orgs:
     - FilipMarkovski
     - hejransa
     - lazaki
+    teams:
+      Organization Managers:
+        description: Baloise Incubator GitHub Organization Managers
+        maintainers:
+        - baopso
+        members:
+        - culmat
+        - hirsch88
+        - joachimprinzbach
+        - MarkusTiede
+        - niiku
+        - patrit
+        privacy: closed
+        repos:
+          org: admin
+      Alumni:
+        description: Former member of the Baloise Incubator Open Source Group
+        maintainers:
+        - baopso
+        members:
+        - christiansiegel
+        privacy: closed
+      ApertoDevs:
+        description: Development team of the website
+        maintainers:
+        - baopso
+        - hirsch88
+        members:
+        - soenkeSchmidt
+        - serialcool
+        - max-voss
+        - GinaBiondo-aperto
+        - fabio-tedesco
+        - dianaracho
+        - madaluca
+        - rainerblumenthal
+        - MelPiw
+        - Sw0rdiX
+        - sebaotlacan
+        - janineKleessen
+        - fabio-tedesco
+        privacy: closed
+        repos:
+          design-system: write
