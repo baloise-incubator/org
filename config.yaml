@@ -151,12 +151,3 @@ orgs:
         privacy: closed
         repos:
           org: admin
-      ApertoDevs:
-        description: Development team of the website
-        maintainers:
-        - baopso
-        members:
-        - culmat
-        privacy: closed
-        repos:
-          design-system: write
