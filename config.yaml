@@ -8,7 +8,10 @@ orgs:
     - joachimprinzbach
     - niiku
     - patrit
-    - marcschmidlin
+    - arburk
+    - kullmanp 
+    - Tiliavir
+    - svene
     billing_email: Group.CH_Open-Source@baloise.ch
     company: ""
     default_repository_permission: write
