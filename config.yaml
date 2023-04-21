@@ -1,5 +1,15 @@
 orgs:
   baloise-incubator:
+    name: Baloise Group - Incubator
+    billing_email: Group.CH_Open-Source@baloise.ch
+    company: ""
+    default_repository_permission: write
+    description: Evaluation and incubation of new technologies for the Baloise Group
+    email: Group.CH_Open-Source@baloise.ch
+    has_organization_projects: true
+    has_repository_projects: true
+    location: Aeschengraben 21, 4002 Basel, Switzerland
+    members_can_create_repositories: true
     admins:
     - baopso
     - culmat
@@ -12,14 +22,6 @@ orgs:
     - kullmanp 
     - Tiliavir
     - svene
-    billing_email: Group.CH_Open-Source@baloise.ch
-    company: ""
-    default_repository_permission: write
-    description: Evaluation and incubation of new technologies for the Baloise Group
-    email: Group.CH_Open-Source@baloise.ch
-    has_organization_projects: true
-    has_repository_projects: true
-    location: Aeschengraben 21, 4002 Basel, Switzerland
     members:
     - ArivinK
     - jembas
@@ -134,49 +136,3 @@ orgs:
     - FilipMarkovski
     - hejransa
     - lazaki
-    members_can_create_repositories: true
-    name: Baloise Group - Incubator
-    teams:
-      Organization Managers:
-        description: Baloise Incubator GitHub Organization Managers
-        maintainers:
-        - baopso
-        members:
-        - culmat
-        - hirsch88
-        - joachimprinzbach
-        - MarkusTiede
-        - niiku
-        - patrit
-        privacy: closed
-        repos:
-          org: admin
-      Alumni:
-        description: Former member of the Baloise Incubator Open Source Group
-        maintainers:
-        - baopso
-        members:
-        - christiansiegel
-        privacy: closed
-      ApertoDevs:
-        description: Development team of the website
-        maintainers:
-        - baopso
-        - hirsch88
-        members:
-        - soenkeSchmidt
-        - serialcool
-        - max-voss
-        - GinaBiondo-aperto
-        - fabio-tedesco
-        - dianaracho
-        - madaluca
-        - rainerblumenthal
-        - MelPiw
-        - Sw0rdiX
-        - sebaotlacan
-        - janineKleessen
-        - fabio-tedesco
-        privacy: closed
-        repos:
-          design-system: write
