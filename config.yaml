@@ -139,11 +139,6 @@ orgs:
         - baopso
         members:
         - culmat
-        - hirsch88
-        - joachimprinzbach
-        - MarkusTiede
-        - niiku
-        - patrit
         privacy: closed
         repos:
           org: admin
@@ -158,21 +153,8 @@ orgs:
         description: Development team of the website
         maintainers:
         - baopso
-        - hirsch88
         members:
-        - soenkeSchmidt
-        - serialcool
-        - max-voss
-        - GinaBiondo-aperto
-        - fabio-tedesco
-        - dianaracho
-        - madaluca
-        - rainerblumenthal
-        - MelPiw
-        - Sw0rdiX
-        - sebaotlacan
-        - janineKleessen
-        - fabio-tedesco
+        - culmat
         privacy: closed
         repos:
           design-system: write
