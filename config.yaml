@@ -139,22 +139,15 @@ orgs:
         - baopso
         members:
         - culmat
+        - hirsch88
+        - incubator-tekton
+        - joachimprinzbach
+        - niiku
+        - patrit
+        - arburk
+        - kullmanp 
+        - Tiliavir
+        - svene
         privacy: closed
         repos:
           org: admin
-      Alumni:
-        description: Former member of the Baloise Incubator Open Source Group
-        maintainers:
-        - baopso
-        members:
-        - christiansiegel
-        privacy: closed
-      ApertoDevs:
-        description: Development team of the website
-        maintainers:
-        - baopso
-        members:
-        - culmat
-        privacy: closed
-        repos:
-          design-system: write
