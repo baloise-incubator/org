@@ -133,6 +133,7 @@ orgs:
     - hejransa
     - lazaki
     - koenigle
+    - predrag-arsic
     teams:
       Organization Managers:
         description: Baloise Incubator GitHub Organization Managers
