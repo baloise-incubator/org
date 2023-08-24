@@ -150,6 +150,8 @@ orgs:
         - kullmanp 
         - Tiliavir
         - svene
+        - danielgrob
+        - d038496
         privacy: closed
         repos:
           org: admin
