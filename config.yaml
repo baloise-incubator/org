@@ -134,6 +134,7 @@ orgs:
     - hejransa
     - lazaki
     - predrag-arsic
+    - trikke
     teams:
       Organization Managers:
         description: Baloise Incubator GitHub Organization Managers
