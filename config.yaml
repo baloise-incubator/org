@@ -135,6 +135,7 @@ orgs:
     - lazaki
     - predrag-arsic
     - Schneidarr
+    - trikke    
     teams:
       Organization Managers:
         description: Baloise Incubator GitHub Organization Managers
