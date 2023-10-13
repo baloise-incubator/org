@@ -1,15 +1,6 @@
 orgs:
   baloise-incubator:
-    admins:
-    - baopso
-    - culmat
-    - hirsch88
-    - incubator-tekton
-    - joachimprinzbach
-    - MarkusTiede
-    - niiku
-    - patrit
-    - marcschmidlin
+    name: Baloise Group - Incubator
     billing_email: Group.CH_Open-Source@baloise.ch
     company: ""
     default_repository_permission: write
@@ -18,11 +9,27 @@ orgs:
     has_organization_projects: true
     has_repository_projects: true
     location: Aeschengraben 21, 4002 Basel, Switzerland
+    members_can_create_repositories: true
+    admins:
+    - baopso
+    - culmat
+    - hirsch88
+    - incubator-tekton
+    - joachimprinzbach
+    - niiku
+    - patrit
+    - arburk
+    - koenigle
+    - kullmanp 
+    - Tiliavir
+    - svene
+    - robert-groensfeld
+    - danielgrob
+    - d038496
     members:
     - ArivinK
     - jembas
     - Alex-Thoma
-    - arburk
     - baloise-incubator-bot
     - alexsoeres
     - chris-lipp
@@ -32,7 +39,6 @@ orgs:
     - clemensgbasler
     - CookieMonster70
     - daniel-st
-    - danielgrob
     - dianaracho
     - Dr-Tech81
     - fabio-tedesco
@@ -50,7 +56,6 @@ orgs:
     - JohnnyGoodNews
     - jordilaforge
     - JasperDeLanghe
-    - kullmanp 
     - l0r5
     - leubedane
     - luechtdiode
@@ -69,7 +74,6 @@ orgs:
     - serialcool
     - StephanSST
     - stefanbukovski
-    - svene
     - m4rc0z
     - tbe1
     - tirun
@@ -112,17 +116,14 @@ orgs:
     - dweber019
     - harry08
     - l-brendle
-    - d038496
     - janhkrueger
     - RiLi2001
     - rainerblumenthaö
     - volkerbasler
     - viclientali
-    - koenigle
     - frevers81
     - monkold
     - henriks23
-    - Tiliavir
     - czimmernn1
     - nataliia-karpenko
     - tommuelli
@@ -130,9 +131,13 @@ orgs:
     - ingenuity2k
     - nteofilovic
     - koljaju
+    - FilipMarkovski
     - hejransa
-    members_can_create_repositories: true
-    name: Baloise Group - Incubator
+    - lazaki
+    - predrag-arsic
+    - Schneidarr
+    - trikke    
+    - daniel-battaglia
     teams:
       Organization Managers:
         description: Baloise Incubator GitHub Organization Managers
@@ -141,39 +146,16 @@ orgs:
         members:
         - culmat
         - hirsch88
+        - incubator-tekton
         - joachimprinzbach
-        - MarkusTiede
         - niiku
         - patrit
+        - arburk
+        - kullmanp 
+        - Tiliavir
+        - svene
+        - danielgrob
+        - d038496
         privacy: closed
         repos:
           org: admin
-      Alumni:
-        description: Former member of the Baloise Incubator Open Source Group
-        maintainers:
-        - baopso
-        members:
-        - christiansiegel
-        privacy: closed
-      ApertoDevs:
-        description: Development team of the website
-        maintainers:
-        - baopso
-        - hirsch88
-        members:
-        - soenkeSchmidt
-        - serialcool
-        - max-voss
-        - GinaBiondo-aperto
-        - fabio-tedesco
-        - dianaracho
-        - madaluca
-        - rainerblumenthal
-        - MelPiw
-        - Sw0rdiX
-        - sebaotlacan
-        - janineKleessen
-        - fabio-tedesco
-        privacy: closed
-        repos:
-          design-system: write
