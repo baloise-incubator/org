@@ -1,59 +1,89 @@
 orgs:
   baloise-incubator:
+    name: Baloise Group - Incubator
+    billing_email: Group.CH_Open-Source@baloise.ch
+    company: ""
+    default_repository_permission: write
+    description: Evaluation and incubation of new technologies for the Baloise Group
+    email: Group.CH_Open-Source@baloise.ch
+    has_organization_projects: true
+    has_repository_projects: true
+    location: Aeschengraben 21, 4002 Basel, Switzerland
+    members_can_create_repositories: true
     admins:
     - baopso
     - culmat
     - hirsch88
     - incubator-tekton
     - joachimprinzbach
-    - MarkusTiede
     - niiku
     - patrit
-    billing_email: Group.CH_Open-Source@baloise.ch
-    company: ""
-    default_repository_permission: read
-    description: Evaluation and incubation of new technologies for the Baloise Group
-    email: Group.CH_Open-Source@baloise.ch
-    has_organization_projects: true
-    has_repository_projects: true
-    location: Aeschengraben 21, 4002 Basel, Switzerland
-    members:
-    - Alex-Thoma
     - arburk
+    - koenigle
+    - kullmanp 
+    - Tiliavir
+    - svene
+    - robert-groensfeld
+    - danielgrob
+    - d038496
+    members:
+    - ArivinK
+    - jembas
+    - Alex-Thoma
     - baloise-incubator-bot
+    - alexsoeres
+    - chris-lipp
     - christiansiegel
+    - christophgeering
+    - clastzoo
+    - clemensgbasler
     - CookieMonster70
     - daniel-st
-    - danielgrob
+    - dianaracho
     - Dr-Tech81
+    - fabio-tedesco
     - felixkrohn
     - frank-baier
+    - Gagne87
     - gerohoff
     - geschba
     - geschbach
     - Ginious
+    - GinaBiondo-aperto
+    - hannah-mat
+    - janineKleessen
+    - jacnguymesoneer
     - JohnnyGoodNews
     - jordilaforge
-    - kullmanp 
+    - JasperDeLanghe
     - l0r5
     - leubedane
     - luechtdiode
     - MarkusFlorian79
+    - max-voss
     - mbobzin
+    - mladenplaninicic
     - miksaylo87
     - niels-oz
+    - nobilo
     - NoraKurzbein
+    - rainerblumenthal
     - sbubendorf
     - schlijo
+    - soenkeSchmidt
+    - serialcool
     - StephanSST
-    - svene
+    - stefanbukovski
+    - m4rc0z
     - tbe1
     - tirun
     - tklueber
     - trichie
+    - ThomasSeyssensTPO
     - vangual
     - yannickholzenkamp
     - mikevader
+    - mkasparsone
     - ArthurNeudeck
     - mateuszbaloise
     - skytime-sh
@@ -63,6 +93,7 @@ orgs:
     - RotscherK
     - sobabufe
     - Mission71
+    - MelPiw
     - lagoaresti
     - sebastianzillessen
     - stefanschoe
@@ -71,17 +102,43 @@ orgs:
     - AlainLatscha
     - renat1sakenov
     - gitops-demo-user
-    - MarcoUebner
     - kamrwo
-    - mabegglen
+    - mebagel
+    - madaluca
+    - sebaotlacan
+    - Sw0rdiX
     - th-basler
     - MartinV-DevOps
     - pkreisel
     - dombosfi
     - mikeleber
+    - gueltekinB
+    - dweber019
+    - harry08
+    - l-brendle
+    - janhkrueger
+    - RiLi2001
+    - rainerblumenthaö
+    - volkerbasler
+    - viclientali
+    - frevers81
+    - monkold
+    - henriks23
+    - czimmernn1
+    - nataliia-karpenko
+    - tommuelli
+    - makrelas
+    - ingenuity2k
+    - nteofilovic
+    - koljaju
+    - FilipMarkovski
+    - hejransa
+    - lazaki
+    - predrag-arsic
+    - Schneidarr
+    - trikke    
+    - daniel-battaglia
     - m1markus
-    members_can_create_repositories: true
-    name: Baloise Group - Incubator
     teams:
       Organization Managers:
         description: Baloise Incubator GitHub Organization Managers
@@ -90,17 +147,16 @@ orgs:
         members:
         - culmat
         - hirsch88
+        - incubator-tekton
         - joachimprinzbach
-        - MarkusTiede
         - niiku
         - patrit
+        - arburk
+        - kullmanp 
+        - Tiliavir
+        - svene
+        - danielgrob
+        - d038496
         privacy: closed
         repos:
           org: admin
-      Alumni:
-        description: Former member of the Baloise Incubator Open Source Group
-        maintainers:
-        - baopso
-        members:
-        - christiansiegel
-        privacy: closed
