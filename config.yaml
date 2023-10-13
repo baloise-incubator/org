@@ -138,6 +138,7 @@ orgs:
     - Schneidarr
     - trikke    
     - daniel-battaglia
+    - m1markus
     teams:
       Organization Managers:
         description: Baloise Incubator GitHub Organization Managers
