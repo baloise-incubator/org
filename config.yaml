@@ -26,6 +26,7 @@ orgs:
     - robert-groensfeld
     - danielgrob
     - d038496
+    - dweber019
     members:
     - ArivinK
     - jembas
@@ -157,6 +158,7 @@ orgs:
         - svene
         - danielgrob
         - d038496
+        - dweber019
         privacy: closed
         repos:
           org: admin
@@ -165,7 +167,6 @@ orgs:
         maintainers:
         - svene
         members:
-        - svene
         - m4rc0z
         - JanMoritz23
         privacy: closed
