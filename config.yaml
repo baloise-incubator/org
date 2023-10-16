@@ -138,6 +138,7 @@ orgs:
     - daniel-battaglia
     - m1markus
     - JanMoritz23
+    - nikolakib
     teams:
       Organization Managers:
         description: Baloise Incubator GitHub Organization Managers
