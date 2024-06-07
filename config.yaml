@@ -145,6 +145,7 @@ orgs:
     - balsst
     - mariusbaloise
     - smngld
+    - SarajAtBaloise
     teams:
       Organization Managers:
         description: Baloise Incubator GitHub Organization Managers
