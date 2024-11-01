@@ -147,6 +147,7 @@ orgs:
     - smngld
     - SarajAtBaloise
     - girafi
+    - MartinBartolome
     teams:
       Organization Managers:
         description: Baloise Incubator GitHub Organization Managers
