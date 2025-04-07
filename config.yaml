@@ -149,6 +149,7 @@ orgs:
     - girafi
     - MartinBartolome
     - tschei65
+    - das-ist-bitter
     teams:
       Organization Managers:
         description: Baloise Incubator GitHub Organization Managers
