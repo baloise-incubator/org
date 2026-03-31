@@ -156,6 +156,7 @@ orgs:
     - balsam4000
     - matal0
     - hbg-dariusz-gorniewicz
+    - klaushuberruiz
     teams:
       Organization Managers:
         description: Baloise Incubator GitHub Organization Managers
